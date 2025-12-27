@@ -53,11 +53,9 @@ Trace particles of titanium, stainless steel, and aluminum alloys were also iden
 
 ### 2.2 Analysis: Paper Manufacturing
 
-The diagnostic value lies not in individual elements, but in their relative proportions and coexistence. By the late 1960s, North American paper manufacturing had converged on a materials regime that systematically produced a silicon–calcium–iron particulate mix closely matching the Cooper tie profile.
+Elemental analysis of Cooper’s tie reveals a non-random industrial particle signature dominated by silicon- and calcium-rich particulates, with secondary iron and trace specialty metals. This internally consistent distribution is indicative of repeated occupational exposure rather than incidental environmental contact. The relative proportions and persistence of these particle classes form the basis for an occupational fingerprint that allows broad categories of unrelated occupations to be excluded. While the individual elements themselves are not rare, the specific combination, dominance, and quantity observed on Cooper’s tie are uncommon across most industrial and non-industrial settings.
 
-Historical industry surveys indicate that calcium carbonate had become the dominant paper filler (≈70%), commonly used alongside silicon-rich materials such as kaolin clay and silicates, particularly in coated paper mills.
-
-**Sources of particles in paper manufacturing:**
+Historical industry surveys indicate that by the late 1960s, calcium carbonate had become the dominant paper filler (approximately 70%), commonly used in conjunction with silicon-rich materials such as kaolin clay and other silicates, particularly in coated paper mills. The following section summarizes common sources of these particle classes within paper-manufacturing environments:
 
 **Silicon (~35.6%)**
 - Kaolin clay (aluminum silicate) coatings and fillers  
