@@ -1,8 +1,9 @@
-# Cooper’s Occupational Fingerprint  
-**Paper Industry Likely, Based on Necktie Particle Analysis**
+# COOPER'S OCCUPATIONAL FOOTPRINT
+## PAPER INDUSTRY LIKELY, BASED ON NECKTIE PARTICLE ANALYSIS
 
-Author: LivingWithGreatness  
-Date: December 25, 2025
+  Date: December 27, 2025
+
+  Author: LivingWithGreatness  
 
 ---
 
